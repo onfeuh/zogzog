@@ -8,6 +8,10 @@ Play Warcraft 3 LAN with your friends over the internet, the simple way. No VPNs
 - Warcraft 3 (Legacy,<=1.29)
 - Confirmed to work on Windows 11 and Linux
 
+## Download
+- [Windows](https://github.com/onfeuh/zogzog/releases/download/0.1.0/zogzog-v0.1.0-win.exe) - `zogzog-v0.1.0-win.exe`
+- [Linux](https://github.com/onfeuh/zogzog/releases/download/0.1.0/zogzog-v0.1.0-linux) - `zogzog-v0.1.0-linux`
+
 ## How to use
 **TL;DR - One person hosts. The host runs the bridge AND hosts the game. Players start and connect to the bridge, and then join the game as usual.**
  
