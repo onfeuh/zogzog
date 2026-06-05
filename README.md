@@ -4,6 +4,7 @@ Play Warcraft 3 LAN with your friends over the internet, the simple way. No VPNs
  
 > Well, almost no fiddling. The host opens one port and you're set. See [Usage](#usage).
  
+
 ## Requirements
 - Warcraft 3 (Legacy,<=1.29)
 - Confirmed to work on Windows 11 and Linux
@@ -14,6 +15,8 @@ Play Warcraft 3 LAN with your friends over the internet, the simple way. No VPNs
 
 ## How to use
 **TL;DR - One person hosts. The host runs the bridge AND hosts the game. Players start and connect to the bridge, and then join the game as usual.**
+
+![](screenshot.png)
  
 ### Host
 1. Open the bridge port in your router - default `7000` TCP/UDP.
