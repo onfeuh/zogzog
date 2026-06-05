@@ -49,4 +49,11 @@ Confirm the bridge host and the game host are the same machine. Check the utilit
 UDP discovery works, but the TCP proxy is failing. Try switching your game port (Warcraft 3 settings) from `6112` to the bridge port. If that doesn't fix it, something is badly wrong and it should have thrown a clear error - file an issue.
  
 ## 🇫🇷 Du travail, encore du travail ...
+
+Liste de maps cools à essayer avec les copains, compatible avec Warcraft 3 Legacy :
+- [Orc Gladiators : Revenge 1.41g](https://www.epicwar.com/maps/291574/)
+- [Warlock 1.02](https://www.epicwar.com/maps/278295/)
+- [Fortress Survival 6.76P](https://www.epicwar.com/maps/261359/)
+
 Si tu trouves ce logiciel utile et que tu aimes Warcraft 3, n'hésite pas à [m'envoyer un message](https://controlistes.fr/).
+
